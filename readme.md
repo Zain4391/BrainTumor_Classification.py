@@ -10,6 +10,7 @@ This project implements deep learning models to classify brain MRI scans into di
 - [Dataset](#dataset)
 - [Models](#models)
 - [Results](#results)
+- [Installation](#installation)
 
 ## 🔍 Overview
 
